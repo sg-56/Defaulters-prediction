@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: mlproject
+Version: 0.0.1
+Author: Anusha S Bhat , Shiva Shankar P
+Author-email: shivashankar944@gmail.com , anushasbhatbhat9577@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: plotly
